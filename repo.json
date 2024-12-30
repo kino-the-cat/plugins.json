@@ -17,7 +17,7 @@
     "LoadPriority": 0,
     "Punchline": "Catch all the alts!",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": https://github.com/kino-the-cat/stalker_plugin/releases/download/test/latest.zip,
-    "DownloadLinkUpdate": https://github.com/kino-the-cat/stalker_plugin/releases/download/test/latest.zip
+    "DownloadLinkInstall": "https://github.com/kino-the-cat/stalker_plugin/releases/download/test/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/kino-the-cat/stalker_plugin/releases/download/test/latest.zip"
   }
 ]
