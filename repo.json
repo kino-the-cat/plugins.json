@@ -1,2 +1,21 @@
-[  
+[
+  {
+    "Author": "The lovely Kino",
+    "Name": "Stalker",
+    "InternalName": "StalkerPlugin",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "/stalk might do something",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "stalker",
+      "matuno"
+    ],
+    "DalamudApiLevel": 11,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Catch all the alts!",
+    "AcceptsFeedback": true
+  }
 ]
